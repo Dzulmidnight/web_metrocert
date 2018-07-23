@@ -44,6 +44,9 @@
 						<li class="nav-item g-ml-20--lg g-mr-0--lg">
 							<a href="#contactanos" class="nav-link px-0">Contactanos</a>
 						</li>
+						<li class="nav-item g-ml-20--lg g-mr-0--lg">
+							<a href="http://www.metrocert.mx/emetro/" target="blank" class="nav-link px-0">EMETRO</a>
+						</li>
 					</ul>
 				</div>
 			<!-- End Navigation -->
