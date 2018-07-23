@@ -22,15 +22,14 @@
 				<!-- Navigation -->
 				<div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
 					<ul class="navbar-nav text-uppercase g-font-weight-600 ml-auto">
-						<li class="nav-item g-mx-20--lg">
+						<li class="nav-item g-mx-20--lg active">
 							<a href="#inicio" class="nav-link px-0">Inicio</a>
 						</li>
 						<li class="nav-item g-mx-20--lg">
 							<a href="#nosotros" class="nav-link px-0">Nosotros</a>
 						</li>
-						<li class="nav-item g-mx-20--lg active">
+						<li class="nav-item g-mx-20--lg">
 							<a href="#certificacionOrganica" class="nav-link px-0">Certificación Organica
-								<span class="sr-only">(current)</span>
 							</a>
 						</li>
 						<li class="nav-item g-mx-20--lg">

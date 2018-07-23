@@ -221,8 +221,7 @@
 					<h3 class="text-uppercase g-font-weight-800 g-font-size-default g-color-green g-mb-25">ESTRUCTURA</h3>
 					<p class="g-mb-30">Aliquam mattis neque justo, non maximus dui ornare nec. Praesent efficitur velit nisl, sed tincidunt mi imperdiet at. Cras urna libero, fringilla vitae luctus eu, egestas eget metus. Nam et massa eros. Maecenas sit amet lacinia lectus.</p>
 					<p class="g-mb-30">Maecenas ut mauris risus. Quisque mi urna, mattis id varius nec, convallis eu odio. Integer eu malesuada leo, placerat semper neque. Nullam id volutpat dui, quis luctus magna. Suspendisse rutrum ipsum in quam semper laoreet. Praesent dictum nulla id viverra vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas ac nulla vehicula risus pulvinar feugiat ullamcorper sit amet mi.</p>
-					<a class="btn btn-lg u-btn-primary g-font-weight-700 g-font-size-12 text-uppercase g-rounded-50 g-px-40 g-py-15" href="#!">Contact us
-					<span class="g-hidden-xs-down">for more info</span></a>
+					
 				</div>
 
 				<div class="col-sm-5 col-md-6 g-min-height-360 g-bg-img-hero g-px-0" style="background-image: url(assets/img-temp/1200x960/img5.jpg);"></div>
@@ -449,29 +448,7 @@
 				
 				<!-- Tarifas -->
 				<div class="tab-pane fade" id="tarifas" role="tabpanel">
-					<div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-						<h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ</h4>
-						<p class="g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
-						<a class="text-uppercase g-font-size-11" href="#!"><strong>Read more</strong></a>
-					</div>
-
-					<div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-						<h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 2</h4>
-						<p class="g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
-						<a class="text-uppercase g-font-size-11" href="#!"><strong>Read more</strong></a>
-					</div>
-
-					<div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-						<h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 3</h4>
-						<p class="g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
-						<a class="text-uppercase g-font-size-11" href="#!"><strong>Read more</strong></a>
-					</div>
-
-					<div class="g-brd-bottom g-theme-brd-gray-light-v1 g-py-40">
-						<h4 class="h6 text-uppercase g-font-weight-700 g-mb-10">Security FAQ 4</h4>
-						<p class="g-mb-30">Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum ivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc.</p>
-						<a class="text-uppercase g-font-size-11" href="#!"><strong>Read more</strong></a>
-					</div>
+					
 				</div>
 				<!-- End Tarifas -->
 
@@ -543,7 +520,7 @@
 							<li class="nav-item">
 								<a class="nav-link active" data-toggle="tab" href="#documentacionInicial" role="tab">
 									<span class="u-nav-v8__icon u-icon-v3 u-icon-size-lg g-font-size-20 g-rounded-50x g-brd-around g-brd-4 g-brd-white">
-										<i class="fa fa-coffee"></i>
+										<i class="et-icon-book-open"></i>
 									</span>
 									<strong class="text-uppercase u-nav-v8__title g-font-size-13 g-mb-5">Documentación</strong>
 									<!--<em class="u-nav-v8__description g-color-white-opacity-0_5">Lorem ipsum dolor sit amet.</em>-->
@@ -552,7 +529,7 @@
 							<li class="nav-item">
 								<a class="nav-link" data-toggle="tab" href="#pagoServicios" role="tab">
 									<span class="u-nav-v8__icon u-icon-v3 u-icon-size-lg g-font-size-20 g-rounded-50x g-brd-around g-brd-4 g-brd-white">
-										<i class="fa fa-pencil"></i>
+										<i class="icon-finance-260 u-line-icon-pro"></i>
 									</span>
 									<strong class="text-uppercase u-nav-v8__title g-font-size-13 g-mb-5">Pago de servicios</strong>
 								</a>
@@ -560,7 +537,7 @@
 							<li class="nav-item">
 								<a class="nav-link" data-toggle="tab" href="#evaluacion" role="tab">
 									<span class="u-nav-v8__icon u-icon-v3 u-icon-size-lg g-font-size-20 g-rounded-50x g-brd-around g-brd-4 g-brd-white">
-										<i class="fa fa-picture-o"></i>
+										<i class="icon-education-102 u-line-icon-pro"></i>
 									</span>
 									<strong class="text-uppercase u-nav-v8__title g-font-size-13 g-mb-5">Evaluación</strong>
 								</a>
@@ -568,7 +545,7 @@
 							<li class="nav-item">
 								<a class="nav-link" data-toggle="tab" href="#certificado" role="tab">
 									<span class="u-nav-v8__icon u-icon-v3 u-icon-size-lg g-font-size-20 g-rounded-50x g-brd-around g-brd-4 g-brd-white">
-										<i class="fa fa-heart"></i>
+										<i class="icon-education-055 u-line-icon-pro"></i>
 									</span>
 									<strong class="text-uppercase u-nav-v8__title g-font-size-13 g-mb-5">Certificado</strong>
 	
@@ -683,7 +660,7 @@
 <!-- End Evaluación de insumos -->
 
 <!-- Documentación de interes -->
-<section id="documentos" class="g-py-100 text-center">
+<section id="documentos" class="g-py-10 text-center" style="margin-top: 5em;">
 	<div class="u-heading-v2-2--bottom g-brd-primary g-mb-30">
 		<h2 class="text-uppercase u-heading-v2__title g-font-weight-700 mb-0">Documentación de interes</h2>
 	</div>
@@ -708,242 +685,226 @@
 </section>
 <!-- End Documentación de interes -->
 
-<!-- Counter -->
-<section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll">
-	<!-- Parallax Image -->
-	<div class="divimage dzsparallaxer--target w-100 u-bg-overlay g-bg-repeat g-bg-white-gradient-opacity-v1--after" style="height: 160%; background-image: url(<?php echo base_url(); ?>assets/img/bg/pattern3.png);"></div>
-	<!-- End Parallax Image -->
-
-	<div class="container u-bg-overlay__inner g-color-white g-py-100">
-		<div class="row text-center">
-			<div class="col-lg-3 col-sm-6 g-mb-30 g-mb-0--lg">
-				<i class="icon-finance-078 u-line-icon-pro g-color-white-opacity-0_8 g-font-size-40 g-mb-25"></i>
-				<div class="js-counter g-font-size-35 g-mb-15">12</div>
-				<h4 class="h5 text-uppercase g-mb-15">Years</h4>
-				<p class="mb-0">Sed feugiat porttitor nunc Etiam gravida ex justo ac rhoncus.</p>
-			</div>
-
-			<div class="col-lg-3 col-sm-6 g-mb-30 g-mb-0--lg">
-				<i class="icon-finance-053 u-line-icon-pro g-color-white-opacity-0_8 g-font-size-40 g-mb-25"></i>
-				<div class="js-counter g-font-size-35 g-mb-15" data-reduce-thousands-to="k">899000</div>
-				<h4 class="h5 text-uppercase g-mb-15">Earnings</h4>
-				<p class="mb-0">Ivitae blandit massa luctus fermentum lorem quis elit vitae</p>
-			</div>
-
-			<div class="col-lg-3 col-sm-6 g-mb-30 g-mb-0--lg">
-				<i class="icon-finance-039 u-line-icon-pro g-color-white-opacity-0_8 g-font-size-40 g-mb-25"></i>
-				<div class="js-counter g-font-size-35 g-mb-15" data-reduce-thousands-to="k">125000</div>
-				<h4 class="h5 text-uppercase g-mb-15">Projects</h4>
-				<p class="mb-0">Curabitur eget tortor sed urna nulla sed fringilla quam</p>
-			</div>
-
-			<div class="col-lg-3 col-sm-6">
-				<i class="icon-finance-086 u-line-icon-pro g-color-white-opacity-0_8 g-font-size-40 g-mb-25"></i>
-				<div class="js-counter g-font-size-35 g-mb-15">167</div>
-				<h4 class="h5 text-uppercase g-mb-15">Investments</h4>
-				<p class="mb-0">Duis dui turpis, consectetur non ultrices aliquam sapien</p>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Counter -->
-
-<!-- Work With Us -->
-<section class="text-center g-py-100">
+<!-- Sitios de interes -->
+<section id="sitiosInteres" class="g-py-100 text-center">
+	<!-- Admission Heading -->
 	<div class="container">
-		<header class="text-center g-width-80x--md mx-auto g-mb-50">
-			<div class="u-heading-v6-2 text-center text-uppercase g-mb-20">
-			<h6 class="g-font-size-12 g-font-weight-600">We Are Hiring</h6>
-			<h2 class="h3 u-heading-v6__title g-brd-primary g-color-gray-dark-v2 g-font-weight-600">Work With Us</h2>
-			</div>
-			<p class="lead">Lorem ipsum dolor <span class="g-color-primary">sit amet consectetur</span> adipiscing elit. Nam eget varius leo, at elementum eros. Fusce tristique, ipsum egestas fermentum imperdiet, ex nunc iaculis sem, a semper augue turpis ut nulla.</p>
-		</header>
+	<!-- Heading -->
+		<div class="g-max-width-645 text-center mx-auto g-mb-60">
+			<h2 class="h1 mb-3">SITIOS DE INTERES</h2>
+		</div>
+	<!-- End Heading -->
+	</div>
+	<!-- End Admission Heading -->
 
-		<div class="g-bg-img-hero g-pb-70" style="background-image: url(<?php echo base_url(); ?>assets/img/maps/map3.png);">
-			<div class="row justify-content-center g-pt-100--md">
-				<div class="col-md-6 col-lg-4">
-					<div class="g-brd-around g-brd-3 g-brd-gray-light-v4 rounded g-py-80 g-pl-50 g-pr-80">
-						<i class="d-block g-color-primary g-font-size-40 g-line-height-0_7 g-pos-rel g-top-15 g-mb-25">“</i>
-						<blockquote class="g-color-black-opacity-0_6 g-font-size-22 g-line-height-1_8 g-mb-40"><em>Great theme maker. I wish they would create more themes</em>.
-						</blockquote>
-						<h4 class="g-color-black-opacity-0_4 g-font-weight-700 g-font-size-13 text-uppercase g-mb-0">
-							<span class="d-inline-block g-width-40 g-height-2 g-bg-black-opacity-0_4 g-pos-rel g-top-minus-3 mr-2"></span>
-							Dan Watson
-						</h4>
+	<div class="container">
+		<!-- Notice -->
+		<div class="g-bg-secondary">
+			<div class="container-fluid g-px-8 g-pt-8">
+				<!-- Notice Carousel -->
+				<div class="js-carousel u-carousel-v5 g-mx-minus-4"
+				data-slides-show="4"
+				data-slides-scroll="1"
+				data-arrows-classes="u-icon-v3 u-icon-size--sm g-absolute-centered--x g-bottom-minus-70 g-color-main g-color-white--hover g-bg-secondary g-bg-primary--hover rounded g-pa-11"
+				data-arrow-left-classes="fa fa-angle-left g-ml-minus-25"
+				data-arrow-right-classes="fa fa-angle-right g-ml-25"
+				data-responsive='[{
+				 "breakpoint": 992,
+				 "settings": {
+				   "slidesToShow": 3
+				 }
+				}, {
+				 "breakpoint": 768,
+				 "settings": {
+				   "slidesToShow": 2
+				 }
+				}, {
+				 "breakpoint": 554,
+				 "settings": {
+				   "slidesToShow": 1
+				 }
+				}]'>
+
+					<!-- Notice - Article -->
+					<div class="js-slide g-mx-4 g-mb-8">
+						<div class="u-info-v11-1 g-bg-white text-center rounded g-px-40 g-py-50">
+							<div class="g-width-150 g-height-150 mx-auto mb-4">
+								<img class="img-fluid u-info-v11-1-img rounded-circle" src="assets/img-temp/150x150/img1.jpg" alt="Image Description">
+							</div>
+							<div class="mb-5">
+								<a href="#">
+									<h3 class="mb-3">OMRI</h3>
+								</a>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio fuga quos, mollitia ducimus sequi doloremque aut.
+								</p>
+							</div>
+							
+						</div>
 					</div>
+					<!-- End Notice - Article -->
+
+					<!-- Notice - Article -->
+					<div class="js-slide g-mx-4 g-mb-8">
+						<div class="u-info-v11-1 g-bg-white text-center rounded g-px-40 g-py-50">
+							<div class="g-width-150 g-height-150 mx-auto mb-4">
+								<img class="img-fluid u-info-v11-1-img rounded-circle" src="assets/img-temp/150x150/img5.jpg" alt="Image Description">
+							</div>
+							<div class="mb-5">
+								<a href="#">
+									<h3 class="mb-3">WSDA</h3>
+								</a>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore accusantium optio, nemo sunt velit mollitia.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					<!-- End Notice - Article -->
+
+					<!-- Notice - Article -->
+					<div class="js-slide g-mx-4 g-mb-8">
+						<div class="u-info-v11-1 g-bg-white text-center rounded g-px-40 g-py-50">
+							<div class="g-width-150 g-height-150 mx-auto mb-4">
+								<img class="img-fluid u-info-v11-1-img rounded-circle" src="assets/img-temp/150x150/img3.jpg" alt="Image Description">
+							</div>
+							<div class="mb-5">
+								<a href="#">
+									<h3 class="mb-3">www.cnpo.org.mx</h3>
+								</a>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo voluptatibus vel optio ab quam sit tenetur sapiente.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					<!-- End Notice - Article -->
+
+					<!-- Notice - Article -->
+					<div class="js-slide g-mx-4 g-mb-8">
+						<div class="u-info-v11-1 g-bg-white text-center rounded g-px-40 g-py-50">
+							<div class="g-width-150 g-height-150 mx-auto mb-4">
+								<img class="img-fluid u-info-v11-1-img rounded-circle" src="assets/img-temp/150x150/img4.jpg" alt="Image Description">
+							</div>
+							<div class="mb-5">
+								<a href="#">
+									<h3 class="mb-3">www.icea.info</h3>
+								</a>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur odio magnam voluptatem alias culpa.
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					<!-- End Notice - Article -->
+
+					<!-- Notice - Article -->
+					<div class="js-slide g-mx-4 g-mb-8">
+						<div class="u-info-v11-1 g-bg-white text-center rounded g-px-40 g-py-50">
+							<div class="g-width-150 g-height-150 mx-auto mb-4">
+								<img class="img-fluid u-info-v11-1-img rounded-circle" src="assets/img-temp/150x150/img2.jpg" alt="Image Description">
+							</div>
+							<div class="mb-5">
+								<a href="#">
+									<h3 class="mb-3">www.somexpro.org</h3>
+								</a>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam quae in illum ratione repellendus, iste!
+								</p>
+							</div>
+							
+						</div>
+					</div>
+					<!-- End Notice - Article -->
 				</div>
-				<div class="col-md-6 col-lg-4 g-hidden-sm-down g-bg-size-cover g-min-height-300 g-pos-rel rounded g-top-minus-70 g-ml-minus-50" data-bg-img-src="<?php echo base_url(); ?>assets/img-temp/900x900/img2.jpg"></div>
+				<!-- End Notice Carousel -->
+			</div>
+		</div>
+		<!-- End Notice -->
+	</div>
+</section>
+<!-- End Sitios de interes -->
+
+<!-- Formulario de contacto -->
+<section id="contactanos" class="container g-py-100">
+	<div class="row g-mb-20">
+		<div class="col-lg-6 g-mb-50">
+		<!-- Heading -->
+			<h2 class="h1 g-color-black g-font-weight-700 mb-4">¿Cómo podemos ayudarte?</h2>
+			
+		<!-- End Heading -->
+		</div>
+		<div class="col-lg-3 align-self-end ml-auto g-mb-50">
+			<div class="media">
+				<div class="d-flex align-self-center">
+					<span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
+						<i class="g-font-size-16 icon-communication-033 u-line-icon-pro"></i>
+					</span>
+				</div>
+				<div class="media-body align-self-center">
+					<h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Número de Teléfono</h3>
+					<p class="mb-0">443 340 7744</p>
+				</div>
 			</div>
 		</div>
 
-		<p class="g-color-gray-dark-v5 mb-0">Be Our Exclusive Partner! <a href="#!">Contact Us</a>
-		</p>
-	</div>
-</section>
-<!-- End Work With Us -->
-
-<!-- Call To Action -->
-<section class="g-bg-primary g-color-white g-pa-40" style="background-image: url(<?php echo base_url(); ?>assets/img/bg/pattern5.png);">
-	<div class="container u-bg-overlay__inner">
-		<div class="row">
-			<div class="col-md-8 align-self-center">
-				<h2 class="h3 text-uppercase g-font-weight-300 g-mb-20 g-mb-0--md">Subscribe to our weekly <strong>newsletter</strong></h2>
-			</div>
-
-			<div class="col-md-4 align-self-center">
-				<div class="input-group g-brd-white--focus g-rounded-50">
-					<input class="form-control g-font-size-default g-placeholder-white g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_8 g-py-12 g-px-12" type="email" placeholder="Enter your email...">
-					<div class="input-group-append">
-						<button class="btn u-btn-primary g-color-white g-bg-transparent g-brd-white-opacity-0_8 g-px-12" type="submit">
-							<i class="icon-envelope g-pos-rel g-top-1"></i>
-						</button>
-					</div>
+		<div class="col-lg-3 align-self-end ml-auto g-mb-50">
+			<div class="media">
+				<div class="d-flex align-self-center">
+					<span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
+						<i class="g-font-size-16 icon-communication-062 u-line-icon-pro"></i>
+					</span>
+				</div>
+				<div class="media-body align-self-center">
+					<h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Email</h3>
+					<p class="mb-0">contacto@metrocert.com</p>
 				</div>
 			</div>
 		</div>
 	</div>
+
+	<div class="row justify-content-center">
+		<div class="col-md-5">
+			<form>
+				<div class="row">
+					<div class="col-md-6 form-group g-mb-20">
+						<label class="g-color-gray-dark-v2 g-font-size-13">Nombre</label>
+						<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" placeholder="Nombre">
+					</div>
+
+					<div class="col-md-6 form-group g-mb-20">
+						<label class="g-color-gray-dark-v2 g-font-size-13">Apellidos</label>
+						<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" placeholder="Apellido(s)">
+					</div>
+				</div>
+
+				<div class="g-mb-20">
+					<label class="g-color-gray-dark-v2 g-font-size-13">Tu email</label>
+					<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="email" placeholder="prueba@gmail.com">
+				</div>
+
+				<div class="g-mb-20">
+					<label class="g-color-gray-dark-v2 g-font-size-13">Número de teléfono</label>
+					<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" placeholder="+ (01) 222 33 44">
+				</div>
+
+			</form>
+		</div>
+		<div class="col-md-7">
+			<div class="g-mb-40">
+				<label class="g-color-gray-dark-v2 g-font-size-13">Tu mensaje</label>
+				<textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="12" placeholder="Hola, me gustaria ..."></textarea>
+			</div>
+
+			<div class="text-right">
+				<button class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded-3 g-py-12 g-px-35" type="submit" role="button">Enviar</button>
+			</div>
+		</div>
+	</div>
 </section>
-<!-- End Call To Action -->
-
-<!-- Footer -->
-<div id="contacts-section" class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 g-py-60">
-  	<div class="container">
-        <div class="row">
-			<!-- Footer Content -->
-			<div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
-				<div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-					<h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
-				</div>
-
-				<p>About Unify dolor sit amet, consectetur adipiscing elit. Maecenas eget nisl id libero tincidunt sodales.</p>
-			</div>
-			<!-- End Footer Content -->
-
-			<!-- Footer Content -->
-			<div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
-				<div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-					<h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest Posts</h2>
-				</div>
-
-				<article>
-					<h3 class="h6 g-mb-2">
-						<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Incredible template</a>
-					</h3>
-					<div class="small g-color-white-opacity-0_6">May 8, 2017</div>
-				</article>
-
-				<hr class="g-brd-white-opacity-0_1 g-my-10">
-
-				<article>
-					<h3 class="h6 g-mb-2">
-						<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New features</a>
-					</h3>
-					<div class="small g-color-white-opacity-0_6">June 23, 2017</div>
-				</article>
-
-				<hr class="g-brd-white-opacity-0_1 g-my-10">
-
-				<article>
-				<h3 class="h6 g-mb-2">
-				<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New terms and conditions</a>
-				</h3>
-				<div class="small g-color-white-opacity-0_6">September 15, 2017</div>
-				</article>
-			</div>
-			<!-- End Footer Content -->
-
-			<!-- Footer Content -->
-			<div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
-				<div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-					<h2 class="u-heading-v2__title h6 text-uppercase mb-0">Useful Links</h2>
-				</div>
-
-				<nav class="text-uppercase1">
-					<ul class="list-unstyled g-mt-minus-10 mb-0">
-						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-							<h4 class="h6 g-pr-20 mb-0">
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">About Us</a>
-							<i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-							</h4>
-						</li>
-						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-							<h4 class="h6 g-pr-20 mb-0">
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Portfolio</a>
-							<i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-							</h4>
-						</li>
-						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-							<h4 class="h6 g-pr-20 mb-0">
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Our Services</a>
-							<i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-							</h4>
-						</li>
-						<li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
-							<h4 class="h6 g-pr-20 mb-0">
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Latest Jobs</a>
-							<i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-							</h4>
-						</li>
-						<li class="g-pos-rel g-py-10">
-							<h4 class="h6 g-pr-20 mb-0">
-								<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Contact Us</a>
-								<i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
-							</h4>
-						</li>
-					</ul>
-				</nav>
-			</div>
-			<!-- End Footer Content -->
-
-			<!-- Footer Content -->
-			<div class="col-lg-3 col-md-6">
-				<div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-					<h2 class="u-heading-v2__title h6 text-uppercase mb-0">Our Contacts</h2>
-				</div>
-
-				<address class="g-bg-no-repeat g-font-size-12 mb-0" style="background-image: url(<?php echo base_url(); ?>assets/img/maps/map2.png);">
-					<!-- Location -->
-					<div class="d-flex g-mb-20">
-						<div class="g-mr-10">
-							<span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-								<i class="fa fa-map-marker"></i>
-							</span>
-						</div>
-						<p class="mb-0">795 Folsom Ave, Suite 600, <br> San Francisco, CA 94107 795</p>
-					</div>
-					<!-- End Location -->
-
-					<!-- Phone -->
-					<div class="d-flex g-mb-20">
-						<div class="g-mr-10">
-							<span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-								<i class="fa fa-phone"></i>
-							</span>
-						</div>
-						<p class="mb-0">(+123) 456 7890 <br> (+123) 456 7891</p>
-					</div>
-					<!-- End Phone -->
-
-					<!-- Email and Website -->
-					<div class="d-flex g-mb-20">
-						<div class="g-mr-10">
-							<span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-							<i class="fa fa-globe"></i>
-						</span>
-						</div>
-						<p class="mb-0">
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="mailto:info@htmlstream.com">info@htmlstream.com</a>
-							<br>
-							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">www.htmlstream.com</a>
-						</p>
-					</div>
-					<!-- End Email and Website -->
-				</address>
-			</div>
-			<!-- End Footer Content -->
-        </div>
-  	</div>
-</div>
-<!-- End Footer -->
+<!-- End Formulario de contacto -->
 
 

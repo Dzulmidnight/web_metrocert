@@ -58,11 +58,6 @@
 							<i class="fa fa-twitter"></i>
 						</a>
 					</li>
-					<li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Dribbble">
-						<a href="#!" class="g-color-white-opacity-0_5 g-color-white--hover">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</li>
 				</ul>
 			</div>
 		</div>
