@@ -4,8 +4,8 @@
 		<div class="row">
 			<div class="col-md-8 text-center text-md-left g-mb-10 g-mb-0--md">
 				<div class="d-lg-flex">
-					<small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2018 &copy; All Rights Reserved.</small>
-					<ul class="u-list-inline">
+					<small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">2018 &copy; Todos los derechos reservados.</small>
+					<!--<ul class="u-list-inline">
 						<li class="list-inline-item">
 							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Privacy Policy</a>
 						</li>
@@ -27,7 +27,7 @@
 						<li class="list-inline-item">
 							<a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Support</a>
 						</li>
-					</ul>
+					</ul>-->
 				</div>
 			</div>
 
@@ -56,11 +56,6 @@
 					<li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Twitter">
 						<a href="#!" class="g-color-white-opacity-0_5 g-color-white--hover">
 							<i class="fa fa-twitter"></i>
-						</a>
-					</li>
-					<li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Dribbble">
-						<a href="#!" class="g-color-white-opacity-0_5 g-color-white--hover">
-							<i class="fa fa-dribbble"></i>
 						</a>
 					</li>
 				</ul>
@@ -161,7 +156,19 @@
 
 
 
+<!-- JS Implementing Plugins -->
+<script  src="<?php echo base_url(); ?>assets/vendor/custombox/custombox.min.js"></script>
 
+<!-- JS Unify -->
+<script  src="<?php echo base_url(); ?>assets/js/components/hs.modal-window.js"></script>
+
+<!-- JS Plugins Init. -->
+<script >
+  $(document).on('ready', function () {
+    // initialization of popups
+    $.HSCore.components.HSModalWindow.init('[data-modal-target]');
+  });
+</script>
 
 
 </body>

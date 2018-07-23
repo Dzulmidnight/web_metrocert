@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 	<head>
 		<!-- Title -->
-		<title>metrocert | | méxico tradición orgánica</title>
+		<title>Metrocert | México tradición orgánica</title>
 
 		<!-- Required Meta Tags Always Come First -->
 		<meta charset="utf-8">
@@ -38,6 +38,10 @@
 
 		<!-- CSS Customization -->
 		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/custom.css">
+
+<link  rel="stylesheet" href="<?php echo base_url(); ?>assets/vendor/animate.css">
+<link  rel="stylesheet" href="<?php echo base_url(); ?>assets/vendor/custombox/custombox.min.css">
+		
 	</head>
 
 	<body>
